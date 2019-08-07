@@ -1,8 +1,8 @@
 {
   "name": "feathers-permissions",
   "description": "Flexible and powerful permissions module for Feathers",
-  "version": "0.2.1",
-  "homepage": "https://github.com/feathersjs-ecosystem/feathers-permissions",
+  "version": "0.2.2",
+  "homepage": "https://github.com/Critical-Impact/feathers-permissions",
   "main": "lib/",
   "keywords": [
     "feathers",
